@@ -12,7 +12,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  "author": "CodeWithDK",
+  "author": "Ashish Pal",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",

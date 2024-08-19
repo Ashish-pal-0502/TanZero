@@ -20,10 +20,10 @@ const Contact = () => {
             24X7 available
           </p>
           <p className="mt-3">
-            <BiMailSend /> : ashishpal0502@gmail.com
+            <BiMailSend /> : tanzerotech@gmail.com
           </p>
           <p className="mt-3">
-            <BiPhoneCall /> : 8787237026
+            <BiPhoneCall /> : +91 81454 53466
           </p>
         </div>
       </div>
