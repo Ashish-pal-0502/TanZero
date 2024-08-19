@@ -29,7 +29,7 @@ const PORT = process.env.PORT || 7000;
 
 //rest api
 app.get("/", (req, res) => {
-  res.send("<h1>welcome to RONGRY </h1>");
+  res.send("<h1>welcome to TanZero</h1>");
 });
 
 //run listen
