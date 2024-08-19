@@ -6,7 +6,7 @@ const Categories = () => {
   const categories = useCategory();
 
   return (
-    <Layout title={"All categories rongry"}>
+    <Layout title={"All categories TanZero"}>
       <div className="container">
         <div className="row">
           {categories.map((c) => (
